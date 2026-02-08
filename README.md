@@ -1,4 +1,4 @@
-Agro Basket 🌾🛒
+Agro Basket 🌾🛒:
 Agro Basket is a full-stack e-commerce platform designed to connect farmers directly with consumers, eliminating middlemen and ensuring fair pricing. this platform provides a seamless shopping experience for agro products.
 
 🚀 Features
